@@ -55,7 +55,7 @@ android {
             minifyEnabled true
             pseudoLocalesEnabled true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), "proguard-project.txt"
-            signingConfig signingConfigs.MySignConfig
+            //signingConfig signingConfigs.MySignConfig
         }
     }
 
